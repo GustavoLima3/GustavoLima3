@@ -4,6 +4,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLima3&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLima3&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=GustavoLima3&theme=tokyonight&hide_border=true"/>
 
 </div>
