@@ -9,18 +9,6 @@
 
 </div>
 
----
-
-## 📊 Resumo
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoLima3&theme=github_dark" />
-
-</div>
-
----
-
 ## Sobre
 - Desenvolvimento web e scripts  
 - Interesse em sistemas e segurança  
